@@ -1,1 +1,1 @@
-# Laser-Tripwire-Securit-System
+# Laser-Tripwire-Security-System
